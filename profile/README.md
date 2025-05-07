@@ -10,6 +10,6 @@
 <div align="center">
   <h2>Connect</h2>
 
-  ![GitHub](https://img.shields.io/badge/github-242424?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2Fandreansx)
+  [![GitHub](https://img.shields.io/badge/github-242424?style=for-the-badge&logo=github)](https://github.com/andreansx)
   [![Telegram](https://img.shields.io/badge/Telegram-2B59FF?style=for-the-badge&logo=telegram&logoColor=ffffff&logoSize=auto)](https://t.me/Andrtexh)
 </div>
